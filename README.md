@@ -15,6 +15,7 @@ Thank you for checking out my game!
 2. Fork the repository
 
 ## Requirements
+- A webcam
 - An Internet connection
 
 ## Sources Used
