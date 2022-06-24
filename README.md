@@ -19,6 +19,7 @@ Thank you for checking out my game!
 
 1. Install OpenCV: `pip install opencv-python`
 2. Fork the repository
+3. Run main.py
 
 ## Requirements
 - A webcam
